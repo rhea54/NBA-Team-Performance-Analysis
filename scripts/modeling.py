@@ -1,5 +1,5 @@
+import joblib
 import pandas as pd
-import numpy as np
 from sklearn.preprocessing import StandardScaler, PolynomialFeatures
 from sklearn.linear_model import Ridge, LassoCV, ElasticNetCV
 from sklearn.model_selection import cross_val_score
@@ -62,17 +62,15 @@ def main():
     for model_name, r_squared in results.items():
         print(f'R-squared for {model_name} regression: {r_squared:.2%}')
 
+    # Save the ElasticNet model
+    joblib.dump(elasticnet_model, 'models/elasticnet_model.joblib')
+    
     # Save the ElasticNet model coefficients
     feature_names = poly.get_feature_names_out(features)
     coefficients = elasticnet_model.coef_
     coeff_df = pd.DataFrame({'Feature': feature_names, 'Coefficient': coefficients})
     coeff_df.to_csv('data/processed/elasticnet_coefficients.csv', index=False)
-    print("Modeling completed. Coefficients saved to data/processed/elasticnet_coefficients.csv")
+    print("Modeling completed. Model and coefficients saved.")
 
 if __name__ == "__main__":
     main()
-
-
-
-
-
