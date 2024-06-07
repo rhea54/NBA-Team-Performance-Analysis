@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[7]:
-
-
 import pandas as pd
 import numpy as np
 from sklearn.preprocessing import StandardScaler, PolynomialFeatures
@@ -78,8 +72,6 @@ def main():
 if __name__ == "__main__":
     main()
 
-
-# In[ ]:
 
 
 
