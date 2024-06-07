@@ -19,7 +19,6 @@ This project aims to identify and analyze the key factors that influence the num
 - `02_data_preparation.ipynb`: Notebook for data cleaning and feature engineering.
 - `03_exploratory_data_analysis.ipynb`: Notebook for EDA and visualizations.
 - `04_modeling.ipynb`: Notebook for model training and evaluation.
-- `05_results_interpretation.ipynb`: Notebook for interpreting the model results and identifying significant features.
 
 ## Scripts
 
