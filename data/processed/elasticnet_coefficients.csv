@@ -1,0 +1,1485 @@
+Feature,Coefficient
+FG3A,-0.0
+FG3M,0.0
+FG3_PCT,2.8159409955672716
+FG_PCT,4.243745291073337
+FGA,-0.6326652329362835
+FGM,-0.0
+FTA,0.0
+FTM,0.3751572295892096
+REB,2.2507242461362824
+AST,0.0
+TOV,-2.1540813885109533
+DREB,3.0037761502279867
+BLK,0.425281961266576
+STL,2.406448971188451
+2P_PCT,0.0
+Boston Celtics,0.0
+Brooklyn Nets,-0.0
+Charlotte Hornets,-0.0
+Chicago Bulls,-0.0
+Cleveland Cavaliers,0.0
+Dallas Mavericks,0.0
+Denver Nuggets,0.0
+Detroit Pistons,-0.0
+Golden State Warriors,-0.0
+Houston Rockets,-0.0
+Indiana Pacers,-0.0
+LA Clippers,0.0
+Los Angeles Clippers,0.0
+Los Angeles Lakers,-0.0
+Memphis Grizzlies,0.0
+Miami Heat,0.0
+Milwaukee Bucks,-0.0
+Minnesota Timberwolves,-0.0
+New Orleans Pelicans,-0.0
+New York Knicks,-0.0
+Oklahoma City Thunder,0.0
+Orlando Magic,-0.0
+Philadelphia 76ers,0.0
+Phoenix Suns,0.0
+Portland Trail Blazers,0.0
+Sacramento Kings,-0.0
+San Antonio Spurs,-0.0
+Toronto Raptors,0.0
+Utah Jazz,0.0
+Washington Wizards,-0.0
+SEASON_2015-16,-0.0
+SEASON_2016-17,-0.0
+SEASON_2017-18,-0.0
+SEASON_2018-19,-0.0
+SEASON_2019-20,-0.0
+SEASON_2020-21,-0.0
+SEASON_2021-22,-0.0
+SEASON_2022-23,-0.0
+FG3A^2,0.0
+FG3A FG3M,0.0
+FG3A FG3_PCT,0.0
+FG3A FG_PCT,-0.0
+FG3A FGA,0.0
+FG3A FGM,0.0
+FG3A FTA,-0.0
+FG3A FTM,0.0
+FG3A REB,0.0
+FG3A AST,-0.0
+FG3A TOV,-0.0
+FG3A DREB,0.0
+FG3A BLK,-0.0
+FG3A STL,0.0
+FG3A 2P_PCT,0.0
+FG3A Boston Celtics,0.0
+FG3A Brooklyn Nets,-0.0
+FG3A Charlotte Hornets,-0.0
+FG3A Chicago Bulls,-0.0
+FG3A Cleveland Cavaliers,-0.0
+FG3A Dallas Mavericks,-0.0
+FG3A Denver Nuggets,0.0
+FG3A Detroit Pistons,0.0
+FG3A Golden State Warriors,0.0
+FG3A Houston Rockets,0.0
+FG3A Indiana Pacers,-0.0
+FG3A LA Clippers,-0.0
+FG3A Los Angeles Clippers,-0.0
+FG3A Los Angeles Lakers,0.0
+FG3A Memphis Grizzlies,-0.27314968264835093
+FG3A Miami Heat,0.0
+FG3A Milwaukee Bucks,0.29385197628866433
+FG3A Minnesota Timberwolves,0.5169798547271288
+FG3A New Orleans Pelicans,-0.0
+FG3A New York Knicks,0.0
+FG3A Oklahoma City Thunder,-0.2942133735805967
+FG3A Orlando Magic,0.24121956841745817
+FG3A Philadelphia 76ers,0.0
+FG3A Phoenix Suns,0.0
+FG3A Portland Trail Blazers,-0.0
+FG3A Sacramento Kings,0.2221412588776544
+FG3A San Antonio Spurs,-0.0
+FG3A Toronto Raptors,0.0
+FG3A Utah Jazz,0.0
+FG3A Washington Wizards,-0.11284754597710674
+FG3A SEASON_2015-16,0.3635074713589251
+FG3A SEASON_2016-17,0.0
+FG3A SEASON_2017-18,-0.0
+FG3A SEASON_2018-19,0.18923880309472926
+FG3A SEASON_2019-20,0.0
+FG3A SEASON_2020-21,-0.0
+FG3A SEASON_2021-22,-0.0
+FG3A SEASON_2022-23,0.0
+FG3M^2,0.29812366707004934
+FG3M FG3_PCT,0.0
+FG3M FG_PCT,-0.0
+FG3M FGA,0.0
+FG3M FGM,0.0
+FG3M FTA,-0.0
+FG3M FTM,0.0
+FG3M REB,0.0
+FG3M AST,0.0
+FG3M TOV,0.0
+FG3M DREB,-0.0
+FG3M BLK,-0.0
+FG3M STL,0.0
+FG3M 2P_PCT,0.0
+FG3M Boston Celtics,0.003956186019283157
+FG3M Brooklyn Nets,-0.0
+FG3M Charlotte Hornets,-0.0
+FG3M Chicago Bulls,-0.0
+FG3M Cleveland Cavaliers,-0.0
+FG3M Dallas Mavericks,-0.20439381443497653
+FG3M Denver Nuggets,0.0
+FG3M Detroit Pistons,0.0
+FG3M Golden State Warriors,0.03670422781017421
+FG3M Houston Rockets,0.25484940282016866
+FG3M Indiana Pacers,-0.0
+FG3M LA Clippers,-0.0
+FG3M Los Angeles Clippers,-0.0
+FG3M Los Angeles Lakers,0.0
+FG3M Memphis Grizzlies,-0.19120996036650867
+FG3M Miami Heat,0.0
+FG3M Milwaukee Bucks,0.0
+FG3M Minnesota Timberwolves,0.0
+FG3M New Orleans Pelicans,-0.0
+FG3M New York Knicks,0.47827765450697657
+FG3M Oklahoma City Thunder,-0.0
+FG3M Orlando Magic,0.0
+FG3M Philadelphia 76ers,0.0
+FG3M Phoenix Suns,0.0
+FG3M Portland Trail Blazers,-0.0
+FG3M Sacramento Kings,0.0
+FG3M San Antonio Spurs,-0.25098805268540564
+FG3M Toronto Raptors,0.0
+FG3M Utah Jazz,0.0
+FG3M Washington Wizards,-0.0
+FG3M SEASON_2015-16,0.0
+FG3M SEASON_2016-17,0.0
+FG3M SEASON_2017-18,-0.0
+FG3M SEASON_2018-19,0.0
+FG3M SEASON_2019-20,-0.0
+FG3M SEASON_2020-21,0.0
+FG3M SEASON_2021-22,-0.0
+FG3M SEASON_2022-23,0.0
+FG3_PCT^2,0.0
+FG3_PCT FG_PCT,-0.0
+FG3_PCT FGA,-0.0
+FG3_PCT FGM,-0.0
+FG3_PCT FTA,-0.0
+FG3_PCT FTM,-0.0
+FG3_PCT REB,-0.0
+FG3_PCT AST,0.0
+FG3_PCT TOV,0.0
+FG3_PCT DREB,-0.0
+FG3_PCT BLK,0.0
+FG3_PCT STL,0.16147608563674526
+FG3_PCT 2P_PCT,-0.0
+FG3_PCT Boston Celtics,0.0
+FG3_PCT Brooklyn Nets,-0.035402842366575815
+FG3_PCT Charlotte Hornets,-0.0
+FG3_PCT Chicago Bulls,-0.0
+FG3_PCT Cleveland Cavaliers,0.0
+FG3_PCT Dallas Mavericks,-0.0
+FG3_PCT Denver Nuggets,-0.0
+FG3_PCT Detroit Pistons,-0.0
+FG3_PCT Golden State Warriors,0.0
+FG3_PCT Houston Rockets,0.0
+FG3_PCT Indiana Pacers,-0.0
+FG3_PCT LA Clippers,-0.0
+FG3_PCT Los Angeles Clippers,0.0
+FG3_PCT Los Angeles Lakers,-0.0
+FG3_PCT Memphis Grizzlies,-0.0
+FG3_PCT Miami Heat,-0.0
+FG3_PCT Milwaukee Bucks,-0.0
+FG3_PCT Minnesota Timberwolves,0.0
+FG3_PCT New Orleans Pelicans,0.0
+FG3_PCT New York Knicks,0.0
+FG3_PCT Oklahoma City Thunder,0.0
+FG3_PCT Orlando Magic,-0.0
+FG3_PCT Philadelphia 76ers,0.0
+FG3_PCT Phoenix Suns,0.14260212202972847
+FG3_PCT Portland Trail Blazers,0.0
+FG3_PCT Sacramento Kings,-0.0
+FG3_PCT San Antonio Spurs,-0.0
+FG3_PCT Toronto Raptors,0.0
+FG3_PCT Utah Jazz,0.0
+FG3_PCT Washington Wizards,0.0
+FG3_PCT SEASON_2015-16,0.0
+FG3_PCT SEASON_2016-17,-0.34897160954884243
+FG3_PCT SEASON_2017-18,-0.0
+FG3_PCT SEASON_2018-19,-0.0
+FG3_PCT SEASON_2019-20,-0.2713746672344162
+FG3_PCT SEASON_2020-21,0.0
+FG3_PCT SEASON_2021-22,-0.0
+FG3_PCT SEASON_2022-23,0.0
+FG_PCT^2,-0.0
+FG_PCT FGA,0.0
+FG_PCT FGM,-0.0
+FG_PCT FTA,-0.0
+FG_PCT FTM,-0.0
+FG_PCT REB,-0.0
+FG_PCT AST,0.0
+FG_PCT TOV,0.04321814979100049
+FG_PCT DREB,-0.0
+FG_PCT BLK,-0.0
+FG_PCT STL,0.0
+FG_PCT 2P_PCT,-0.0
+FG_PCT Boston Celtics,-0.0
+FG_PCT Brooklyn Nets,-0.0
+FG_PCT Charlotte Hornets,-0.11232775043135466
+FG_PCT Chicago Bulls,-0.0
+FG_PCT Cleveland Cavaliers,0.0
+FG_PCT Dallas Mavericks,0.0
+FG_PCT Denver Nuggets,0.0
+FG_PCT Detroit Pistons,-0.0
+FG_PCT Golden State Warriors,-0.0
+FG_PCT Houston Rockets,-0.0
+FG_PCT Indiana Pacers,-0.0
+FG_PCT LA Clippers,-0.0
+FG_PCT Los Angeles Clippers,-0.0
+FG_PCT Los Angeles Lakers,0.0
+FG_PCT Memphis Grizzlies,-0.0
+FG_PCT Miami Heat,-0.0
+FG_PCT Milwaukee Bucks,-0.0
+FG_PCT Minnesota Timberwolves,0.0
+FG_PCT New Orleans Pelicans,0.0
+FG_PCT New York Knicks,0.0
+FG_PCT Oklahoma City Thunder,0.0
+FG_PCT Orlando Magic,0.0
+FG_PCT Philadelphia 76ers,0.039047373688971
+FG_PCT Phoenix Suns,0.0
+FG_PCT Portland Trail Blazers,-0.0
+FG_PCT Sacramento Kings,0.0
+FG_PCT San Antonio Spurs,-0.0
+FG_PCT Toronto Raptors,0.0
+FG_PCT Utah Jazz,-0.0
+FG_PCT Washington Wizards,-0.0
+FG_PCT SEASON_2015-16,0.0
+FG_PCT SEASON_2016-17,-0.0
+FG_PCT SEASON_2017-18,0.06509509716834755
+FG_PCT SEASON_2018-19,0.0
+FG_PCT SEASON_2019-20,-0.0
+FG_PCT SEASON_2020-21,-0.0
+FG_PCT SEASON_2021-22,0.0
+FG_PCT SEASON_2022-23,-0.0
+FGA^2,-0.13512901510217654
+FGA FGM,-0.0
+FGA FTA,-0.0
+FGA FTM,-0.0
+FGA REB,-0.0
+FGA AST,0.0
+FGA TOV,0.0
+FGA DREB,-0.0
+FGA BLK,-0.0
+FGA STL,-0.0
+FGA 2P_PCT,0.0
+FGA Boston Celtics,0.0
+FGA Brooklyn Nets,0.0
+FGA Charlotte Hornets,-0.0
+FGA Chicago Bulls,-0.0
+FGA Cleveland Cavaliers,0.0
+FGA Dallas Mavericks,-0.0
+FGA Denver Nuggets,0.0
+FGA Detroit Pistons,0.1861889471285666
+FGA Golden State Warriors,0.0
+FGA Houston Rockets,0.0
+FGA Indiana Pacers,-0.0
+FGA LA Clippers,-0.0
+FGA Los Angeles Clippers,0.0
+FGA Los Angeles Lakers,-0.37421801495225665
+FGA Memphis Grizzlies,0.0
+FGA Miami Heat,0.0
+FGA Milwaukee Bucks,0.0
+FGA Minnesota Timberwolves,0.0
+FGA New Orleans Pelicans,0.0
+FGA New York Knicks,-0.0
+FGA Oklahoma City Thunder,-0.0
+FGA Orlando Magic,0.0
+FGA Philadelphia 76ers,-0.0
+FGA Phoenix Suns,0.0
+FGA Portland Trail Blazers,0.0
+FGA Sacramento Kings,0.0
+FGA San Antonio Spurs,-0.0
+FGA Toronto Raptors,0.0
+FGA Utah Jazz,-0.0
+FGA Washington Wizards,0.0
+FGA SEASON_2015-16,0.0
+FGA SEASON_2016-17,-0.0
+FGA SEASON_2017-18,0.0
+FGA SEASON_2018-19,0.0
+FGA SEASON_2019-20,0.0
+FGA SEASON_2020-21,0.0
+FGA SEASON_2021-22,-0.0
+FGA SEASON_2022-23,-0.0
+FGM^2,-0.0
+FGM FTA,-0.0
+FGM FTM,-0.0
+FGM REB,-0.0
+FGM AST,0.0
+FGM TOV,0.0
+FGM DREB,-0.0
+FGM BLK,-0.0
+FGM STL,-0.0
+FGM 2P_PCT,0.0
+FGM Boston Celtics,0.0
+FGM Brooklyn Nets,0.0
+FGM Charlotte Hornets,-0.2190343625231322
+FGM Chicago Bulls,-0.4723344145819871
+FGM Cleveland Cavaliers,0.0
+FGM Dallas Mavericks,-0.0
+FGM Denver Nuggets,0.0
+FGM Detroit Pistons,0.0
+FGM Golden State Warriors,0.0
+FGM Houston Rockets,-0.0
+FGM Indiana Pacers,-0.0
+FGM LA Clippers,-0.0
+FGM Los Angeles Clippers,0.0
+FGM Los Angeles Lakers,-0.0
+FGM Memphis Grizzlies,0.0
+FGM Miami Heat,0.0
+FGM Milwaukee Bucks,0.0
+FGM Minnesota Timberwolves,0.0
+FGM New Orleans Pelicans,0.0
+FGM New York Knicks,-0.0
+FGM Oklahoma City Thunder,0.0
+FGM Orlando Magic,0.0
+FGM Philadelphia 76ers,0.0
+FGM Phoenix Suns,0.0
+FGM Portland Trail Blazers,0.0
+FGM Sacramento Kings,0.0
+FGM San Antonio Spurs,-0.061839809560868104
+FGM Toronto Raptors,0.0
+FGM Utah Jazz,-0.0
+FGM Washington Wizards,0.0
+FGM SEASON_2015-16,0.0
+FGM SEASON_2016-17,-0.0
+FGM SEASON_2017-18,0.0
+FGM SEASON_2018-19,0.0
+FGM SEASON_2019-20,0.0
+FGM SEASON_2020-21,0.0
+FGM SEASON_2021-22,-0.0
+FGM SEASON_2022-23,-0.0
+FTA^2,-0.0
+FTA FTM,-0.0
+FTA REB,-0.0
+FTA AST,-0.0
+FTA TOV,0.0
+FTA DREB,-0.0
+FTA BLK,-0.0
+FTA STL,0.0
+FTA 2P_PCT,-0.0
+FTA Boston Celtics,0.0
+FTA Brooklyn Nets,0.0
+FTA Charlotte Hornets,-0.3079353999207629
+FTA Chicago Bulls,0.3439303325576087
+FTA Cleveland Cavaliers,0.36767724400877244
+FTA Dallas Mavericks,-0.0
+FTA Denver Nuggets,-0.15010225892189702
+FTA Detroit Pistons,0.0
+FTA Golden State Warriors,0.0
+FTA Houston Rockets,-0.0
+FTA Indiana Pacers,-0.0
+FTA LA Clippers,0.0
+FTA Los Angeles Clippers,0.0
+FTA Los Angeles Lakers,-0.0
+FTA Memphis Grizzlies,0.17602204007308636
+FTA Miami Heat,-0.0
+FTA Milwaukee Bucks,0.0
+FTA Minnesota Timberwolves,-0.0
+FTA New Orleans Pelicans,-0.0
+FTA New York Knicks,0.0
+FTA Oklahoma City Thunder,0.14995843375366177
+FTA Orlando Magic,0.0
+FTA Philadelphia 76ers,0.0
+FTA Phoenix Suns,-0.0
+FTA Portland Trail Blazers,-0.5308029716897643
+FTA Sacramento Kings,-0.0
+FTA San Antonio Spurs,-0.0
+FTA Toronto Raptors,-0.0
+FTA Utah Jazz,-0.0
+FTA Washington Wizards,-0.0
+FTA SEASON_2015-16,-0.0
+FTA SEASON_2016-17,0.0
+FTA SEASON_2017-18,0.0
+FTA SEASON_2018-19,-0.0
+FTA SEASON_2019-20,-0.0
+FTA SEASON_2020-21,0.0
+FTA SEASON_2021-22,-0.0
+FTA SEASON_2022-23,-0.0
+FTM^2,-0.0
+FTM REB,-0.0
+FTM AST,-0.0
+FTM TOV,0.0
+FTM DREB,-0.0
+FTM BLK,-0.0
+FTM STL,0.0
+FTM 2P_PCT,-0.0
+FTM Boston Celtics,0.0
+FTM Brooklyn Nets,-0.0
+FTM Charlotte Hornets,-0.0
+FTM Chicago Bulls,0.19772768525205492
+FTM Cleveland Cavaliers,0.0
+FTM Dallas Mavericks,-0.0
+FTM Denver Nuggets,-0.348144691868894
+FTM Detroit Pistons,-0.0
+FTM Golden State Warriors,-0.0
+FTM Houston Rockets,0.0
+FTM Indiana Pacers,-0.0
+FTM LA Clippers,0.0
+FTM Los Angeles Clippers,-0.0
+FTM Los Angeles Lakers,-0.13587433981284203
+FTM Memphis Grizzlies,0.0
+FTM Miami Heat,-0.0
+FTM Milwaukee Bucks,0.0
+FTM Minnesota Timberwolves,-0.0
+FTM New Orleans Pelicans,0.0
+FTM New York Knicks,0.0
+FTM Oklahoma City Thunder,0.0
+FTM Orlando Magic,0.12863588439099394
+FTM Philadelphia 76ers,0.13984118284598032
+FTM Phoenix Suns,-0.911356680973913
+FTM Portland Trail Blazers,-0.0
+FTM Sacramento Kings,-0.0
+FTM San Antonio Spurs,-0.0
+FTM Toronto Raptors,-0.0
+FTM Utah Jazz,-0.0
+FTM Washington Wizards,-0.0
+FTM SEASON_2015-16,0.0
+FTM SEASON_2016-17,-0.0
+FTM SEASON_2017-18,0.0
+FTM SEASON_2018-19,-0.0
+FTM SEASON_2019-20,-0.0
+FTM SEASON_2020-21,0.0
+FTM SEASON_2021-22,0.0
+FTM SEASON_2022-23,-0.0
+REB^2,0.0
+REB AST,-0.0
+REB TOV,0.0
+REB DREB,-0.0
+REB BLK,0.0
+REB STL,-0.0
+REB 2P_PCT,-0.0
+REB Boston Celtics,0.0
+REB Brooklyn Nets,-0.0
+REB Charlotte Hornets,-0.0
+REB Chicago Bulls,-0.0
+REB Cleveland Cavaliers,0.0
+REB Dallas Mavericks,-0.0
+REB Denver Nuggets,-0.0
+REB Detroit Pistons,0.0
+REB Golden State Warriors,0.0
+REB Houston Rockets,0.0
+REB Indiana Pacers,-0.0
+REB LA Clippers,-0.0
+REB Los Angeles Clippers,-0.0
+REB Los Angeles Lakers,-0.0
+REB Memphis Grizzlies,0.0
+REB Miami Heat,-0.0
+REB Milwaukee Bucks,0.0
+REB Minnesota Timberwolves,0.0
+REB New Orleans Pelicans,0.0
+REB New York Knicks,-0.0
+REB Oklahoma City Thunder,-0.0
+REB Orlando Magic,-0.0
+REB Philadelphia 76ers,-0.0
+REB Phoenix Suns,0.0
+REB Portland Trail Blazers,0.0
+REB Sacramento Kings,-0.0
+REB San Antonio Spurs,-0.0
+REB Toronto Raptors,0.0
+REB Utah Jazz,-0.0
+REB Washington Wizards,0.0
+REB SEASON_2015-16,0.0
+REB SEASON_2016-17,-0.0
+REB SEASON_2017-18,0.0
+REB SEASON_2018-19,0.0
+REB SEASON_2019-20,0.0
+REB SEASON_2020-21,0.0
+REB SEASON_2021-22,-0.0
+REB SEASON_2022-23,-0.0
+AST^2,0.010758745295195438
+AST TOV,0.31025577304890156
+AST DREB,0.0
+AST BLK,-0.0
+AST STL,0.0
+AST 2P_PCT,0.0
+AST Boston Celtics,0.0
+AST Brooklyn Nets,-0.0
+AST Charlotte Hornets,-0.0
+AST Chicago Bulls,-0.0
+AST Cleveland Cavaliers,0.0
+AST Dallas Mavericks,-0.0
+AST Denver Nuggets,0.041727152048380366
+AST Detroit Pistons,0.0
+AST Golden State Warriors,0.0
+AST Houston Rockets,-0.0
+AST Indiana Pacers,-0.0
+AST LA Clippers,-0.0
+AST Los Angeles Clippers,0.0
+AST Los Angeles Lakers,-0.0
+AST Memphis Grizzlies,-0.0
+AST Miami Heat,0.0
+AST Milwaukee Bucks,0.0
+AST Minnesota Timberwolves,-0.0
+AST New Orleans Pelicans,0.0
+AST New York Knicks,-0.0
+AST Oklahoma City Thunder,-0.0
+AST Orlando Magic,0.0
+AST Philadelphia 76ers,0.0
+AST Phoenix Suns,0.0
+AST Portland Trail Blazers,-0.0
+AST Sacramento Kings,0.0
+AST San Antonio Spurs,-0.21775194683397037
+AST Toronto Raptors,0.0
+AST Utah Jazz,-0.0
+AST Washington Wizards,0.0
+AST SEASON_2015-16,0.0
+AST SEASON_2016-17,0.0
+AST SEASON_2017-18,-0.0
+AST SEASON_2018-19,0.0
+AST SEASON_2019-20,-0.0
+AST SEASON_2020-21,-0.0
+AST SEASON_2021-22,-0.0
+AST SEASON_2022-23,0.0
+TOV^2,-0.7971118647276954
+TOV DREB,0.0
+TOV BLK,0.0
+TOV STL,0.0
+TOV 2P_PCT,0.0
+TOV Boston Celtics,0.0
+TOV Brooklyn Nets,-0.0
+TOV Charlotte Hornets,-0.0
+TOV Chicago Bulls,-0.0
+TOV Cleveland Cavaliers,0.0
+TOV Dallas Mavericks,-0.0
+TOV Denver Nuggets,-0.0
+TOV Detroit Pistons,0.0
+TOV Golden State Warriors,0.0
+TOV Houston Rockets,-0.0
+TOV Indiana Pacers,-0.0
+TOV LA Clippers,-0.0
+TOV Los Angeles Clippers,0.0
+TOV Los Angeles Lakers,0.0
+TOV Memphis Grizzlies,-0.0
+TOV Miami Heat,0.0
+TOV Milwaukee Bucks,0.0
+TOV Minnesota Timberwolves,-0.0
+TOV New Orleans Pelicans,0.0
+TOV New York Knicks,-0.0
+TOV Oklahoma City Thunder,0.0
+TOV Orlando Magic,-0.22712062118351428
+TOV Philadelphia 76ers,-0.0
+TOV Phoenix Suns,-0.0
+TOV Portland Trail Blazers,-0.0
+TOV Sacramento Kings,-0.0
+TOV San Antonio Spurs,0.0
+TOV Toronto Raptors,0.0
+TOV Utah Jazz,-0.0
+TOV Washington Wizards,0.0
+TOV SEASON_2015-16,-0.0
+TOV SEASON_2016-17,0.0
+TOV SEASON_2017-18,-0.0
+TOV SEASON_2018-19,-0.0
+TOV SEASON_2019-20,0.0
+TOV SEASON_2020-21,-0.0
+TOV SEASON_2021-22,-0.0
+TOV SEASON_2022-23,-0.0
+DREB^2,-0.0
+DREB BLK,0.0
+DREB STL,-0.0
+DREB 2P_PCT,0.0
+DREB Boston Celtics,0.0
+DREB Brooklyn Nets,-0.0
+DREB Charlotte Hornets,-0.0
+DREB Chicago Bulls,-0.0
+DREB Cleveland Cavaliers,-0.0
+DREB Dallas Mavericks,-0.04518051186973708
+DREB Denver Nuggets,-0.0
+DREB Detroit Pistons,0.0
+DREB Golden State Warriors,0.0
+DREB Houston Rockets,0.0
+DREB Indiana Pacers,-0.0
+DREB LA Clippers,-0.0
+DREB Los Angeles Clippers,-0.0
+DREB Los Angeles Lakers,-0.0
+DREB Memphis Grizzlies,0.0
+DREB Miami Heat,-0.0
+DREB Milwaukee Bucks,0.12027982642563287
+DREB Minnesota Timberwolves,0.0
+DREB New Orleans Pelicans,-0.0
+DREB New York Knicks,-0.0
+DREB Oklahoma City Thunder,-0.0
+DREB Orlando Magic,-0.0
+DREB Philadelphia 76ers,-0.0
+DREB Phoenix Suns,0.0
+DREB Portland Trail Blazers,0.0
+DREB Sacramento Kings,-0.0
+DREB San Antonio Spurs,-0.0
+DREB Toronto Raptors,0.0
+DREB Utah Jazz,0.0
+DREB Washington Wizards,0.0
+DREB SEASON_2015-16,0.0
+DREB SEASON_2016-17,-0.0
+DREB SEASON_2017-18,-0.0
+DREB SEASON_2018-19,0.0
+DREB SEASON_2019-20,0.0
+DREB SEASON_2020-21,0.0
+DREB SEASON_2021-22,-0.0
+DREB SEASON_2022-23,0.0
+BLK^2,0.0
+BLK STL,-0.0
+BLK 2P_PCT,-0.17617632784640033
+BLK Boston Celtics,-0.0
+BLK Brooklyn Nets,-0.0
+BLK Charlotte Hornets,0.0
+BLK Chicago Bulls,0.0
+BLK Cleveland Cavaliers,0.34315533408066184
+BLK Dallas Mavericks,-0.0
+BLK Denver Nuggets,-0.0
+BLK Detroit Pistons,-0.0
+BLK Golden State Warriors,-0.0
+BLK Houston Rockets,-0.0
+BLK Indiana Pacers,-0.0
+BLK LA Clippers,-0.0
+BLK Los Angeles Clippers,-0.0
+BLK Los Angeles Lakers,0.0
+BLK Memphis Grizzlies,-0.0
+BLK Miami Heat,-0.28206158416138377
+BLK Milwaukee Bucks,0.0
+BLK Minnesota Timberwolves,0.0
+BLK New Orleans Pelicans,0.19433644764169525
+BLK New York Knicks,-0.25170751068050184
+BLK Oklahoma City Thunder,0.0
+BLK Orlando Magic,0.0
+BLK Philadelphia 76ers,-0.0
+BLK Phoenix Suns,-0.0
+BLK Portland Trail Blazers,-0.0
+BLK Sacramento Kings,-0.0
+BLK San Antonio Spurs,0.5214996754189347
+BLK Toronto Raptors,-0.0
+BLK Utah Jazz,0.0
+BLK Washington Wizards,-0.0
+BLK SEASON_2015-16,-0.0
+BLK SEASON_2016-17,-0.0
+BLK SEASON_2017-18,0.0
+BLK SEASON_2018-19,0.0
+BLK SEASON_2019-20,0.0
+BLK SEASON_2020-21,-0.0
+BLK SEASON_2021-22,-0.0
+BLK SEASON_2022-23,-0.0
+STL^2,0.9559146567916486
+STL 2P_PCT,0.0
+STL Boston Celtics,-0.029214027465884997
+STL Brooklyn Nets,-0.0
+STL Charlotte Hornets,-0.0
+STL Chicago Bulls,-0.0
+STL Cleveland Cavaliers,0.0
+STL Dallas Mavericks,0.0
+STL Denver Nuggets,0.0
+STL Detroit Pistons,0.0
+STL Golden State Warriors,0.0
+STL Houston Rockets,0.860305514440044
+STL Indiana Pacers,-0.0
+STL LA Clippers,-0.0
+STL Los Angeles Clippers,-0.0
+STL Los Angeles Lakers,-0.0
+STL Memphis Grizzlies,0.0
+STL Miami Heat,0.0
+STL Milwaukee Bucks,-0.0
+STL Minnesota Timberwolves,-0.0
+STL New Orleans Pelicans,0.0
+STL New York Knicks,-0.0
+STL Oklahoma City Thunder,0.0
+STL Orlando Magic,-0.0
+STL Philadelphia 76ers,0.0
+STL Phoenix Suns,-0.0
+STL Portland Trail Blazers,-0.0
+STL Sacramento Kings,-0.512023583031875
+STL San Antonio Spurs,0.0
+STL Toronto Raptors,-0.0
+STL Utah Jazz,-0.0
+STL Washington Wizards,0.0
+STL SEASON_2015-16,-0.20780260605909595
+STL SEASON_2016-17,0.0
+STL SEASON_2017-18,0.0
+STL SEASON_2018-19,-0.0
+STL SEASON_2019-20,0.38422446814765765
+STL SEASON_2020-21,-0.09681581892098838
+STL SEASON_2021-22,0.0
+STL SEASON_2022-23,-0.0
+2P_PCT^2,0.0
+2P_PCT Boston Celtics,0.0
+2P_PCT Brooklyn Nets,-0.0
+2P_PCT Charlotte Hornets,-0.0
+2P_PCT Chicago Bulls,-0.0
+2P_PCT Cleveland Cavaliers,-0.0
+2P_PCT Dallas Mavericks,-0.0
+2P_PCT Denver Nuggets,0.0
+2P_PCT Detroit Pistons,-0.0
+2P_PCT Golden State Warriors,0.0
+2P_PCT Houston Rockets,0.0
+2P_PCT Indiana Pacers,-0.0
+2P_PCT LA Clippers,-0.0
+2P_PCT Los Angeles Clippers,-0.0
+2P_PCT Los Angeles Lakers,0.670291593610419
+2P_PCT Memphis Grizzlies,-0.0
+2P_PCT Miami Heat,0.0
+2P_PCT Milwaukee Bucks,0.0
+2P_PCT Minnesota Timberwolves,0.0
+2P_PCT New Orleans Pelicans,-0.0
+2P_PCT New York Knicks,0.0
+2P_PCT Oklahoma City Thunder,0.0
+2P_PCT Orlando Magic,0.0
+2P_PCT Philadelphia 76ers,0.0
+2P_PCT Phoenix Suns,0.0
+2P_PCT Portland Trail Blazers,-0.0
+2P_PCT Sacramento Kings,0.0
+2P_PCT San Antonio Spurs,-0.0
+2P_PCT Toronto Raptors,0.0
+2P_PCT Utah Jazz,-0.0
+2P_PCT Washington Wizards,-0.08461839323222173
+2P_PCT SEASON_2015-16,0.0
+2P_PCT SEASON_2016-17,0.0
+2P_PCT SEASON_2017-18,0.09372278939285285
+2P_PCT SEASON_2018-19,0.0
+2P_PCT SEASON_2019-20,0.0
+2P_PCT SEASON_2020-21,-0.0
+2P_PCT SEASON_2021-22,-0.0
+2P_PCT SEASON_2022-23,-0.0
+Boston Celtics^2,0.2294757622273806
+Boston Celtics Brooklyn Nets,-0.0
+Boston Celtics Charlotte Hornets,-0.0
+Boston Celtics Chicago Bulls,-0.0
+Boston Celtics Cleveland Cavaliers,-0.0
+Boston Celtics Dallas Mavericks,-0.0
+Boston Celtics Denver Nuggets,-0.0
+Boston Celtics Detroit Pistons,-0.0
+Boston Celtics Golden State Warriors,-0.0
+Boston Celtics Houston Rockets,-0.0
+Boston Celtics Indiana Pacers,-0.0
+Boston Celtics LA Clippers,-0.0
+Boston Celtics Los Angeles Clippers,-0.0
+Boston Celtics Los Angeles Lakers,-0.0
+Boston Celtics Memphis Grizzlies,-0.0
+Boston Celtics Miami Heat,-0.0
+Boston Celtics Milwaukee Bucks,-0.0
+Boston Celtics Minnesota Timberwolves,-0.0
+Boston Celtics New Orleans Pelicans,-0.0
+Boston Celtics New York Knicks,-0.0
+Boston Celtics Oklahoma City Thunder,-0.0
+Boston Celtics Orlando Magic,-0.0
+Boston Celtics Philadelphia 76ers,-0.0
+Boston Celtics Phoenix Suns,-0.0
+Boston Celtics Portland Trail Blazers,-0.0
+Boston Celtics Sacramento Kings,-0.0
+Boston Celtics San Antonio Spurs,-0.0
+Boston Celtics Toronto Raptors,-0.0
+Boston Celtics Utah Jazz,-0.0
+Boston Celtics Washington Wizards,-0.0
+Boston Celtics SEASON_2015-16,-0.0
+Boston Celtics SEASON_2016-17,0.33754211299545567
+Boston Celtics SEASON_2017-18,0.2874492282686713
+Boston Celtics SEASON_2018-19,-0.17409384667846978
+Boston Celtics SEASON_2019-20,0.0
+Boston Celtics SEASON_2020-21,-0.2687419964225282
+Boston Celtics SEASON_2021-22,0.0
+Boston Celtics SEASON_2022-23,0.0
+Brooklyn Nets^2,-0.05862775857723534
+Brooklyn Nets Charlotte Hornets,0.0
+Brooklyn Nets Chicago Bulls,0.0
+Brooklyn Nets Cleveland Cavaliers,-0.0
+Brooklyn Nets Dallas Mavericks,-0.0
+Brooklyn Nets Denver Nuggets,-0.0
+Brooklyn Nets Detroit Pistons,0.0
+Brooklyn Nets Golden State Warriors,0.0
+Brooklyn Nets Houston Rockets,0.0
+Brooklyn Nets Indiana Pacers,0.0
+Brooklyn Nets LA Clippers,0.0
+Brooklyn Nets Los Angeles Clippers,0.0
+Brooklyn Nets Los Angeles Lakers,0.0
+Brooklyn Nets Memphis Grizzlies,0.0
+Brooklyn Nets Miami Heat,-0.0
+Brooklyn Nets Milwaukee Bucks,0.0
+Brooklyn Nets Minnesota Timberwolves,0.0
+Brooklyn Nets New Orleans Pelicans,0.0
+Brooklyn Nets New York Knicks,0.0
+Brooklyn Nets Oklahoma City Thunder,-0.0
+Brooklyn Nets Orlando Magic,0.0
+Brooklyn Nets Philadelphia 76ers,0.0
+Brooklyn Nets Phoenix Suns,0.0
+Brooklyn Nets Portland Trail Blazers,0.0
+Brooklyn Nets Sacramento Kings,0.0
+Brooklyn Nets San Antonio Spurs,0.0
+Brooklyn Nets Toronto Raptors,-0.0
+Brooklyn Nets Utah Jazz,-0.0
+Brooklyn Nets Washington Wizards,0.0
+Brooklyn Nets SEASON_2015-16,-0.7962342452052331
+Brooklyn Nets SEASON_2016-17,-0.44779095366736515
+Brooklyn Nets SEASON_2017-18,-0.13479231999464894
+Brooklyn Nets SEASON_2018-19,0.32396614902624093
+Brooklyn Nets SEASON_2019-20,0.0
+Brooklyn Nets SEASON_2020-21,-0.0
+Brooklyn Nets SEASON_2021-22,0.0
+Brooklyn Nets SEASON_2022-23,0.0
+Charlotte Hornets^2,-0.03890093121349643
+Charlotte Hornets Chicago Bulls,0.0
+Charlotte Hornets Cleveland Cavaliers,-0.0
+Charlotte Hornets Dallas Mavericks,-0.0
+Charlotte Hornets Denver Nuggets,-0.0
+Charlotte Hornets Detroit Pistons,0.0
+Charlotte Hornets Golden State Warriors,0.0
+Charlotte Hornets Houston Rockets,0.0
+Charlotte Hornets Indiana Pacers,0.0
+Charlotte Hornets LA Clippers,0.0
+Charlotte Hornets Los Angeles Clippers,0.0
+Charlotte Hornets Los Angeles Lakers,0.0
+Charlotte Hornets Memphis Grizzlies,0.0
+Charlotte Hornets Miami Heat,-0.0
+Charlotte Hornets Milwaukee Bucks,0.0
+Charlotte Hornets Minnesota Timberwolves,0.0
+Charlotte Hornets New Orleans Pelicans,0.0
+Charlotte Hornets New York Knicks,0.0
+Charlotte Hornets Oklahoma City Thunder,-0.0
+Charlotte Hornets Orlando Magic,0.0
+Charlotte Hornets Philadelphia 76ers,0.0
+Charlotte Hornets Phoenix Suns,0.0
+Charlotte Hornets Portland Trail Blazers,0.0
+Charlotte Hornets Sacramento Kings,0.0
+Charlotte Hornets San Antonio Spurs,0.0
+Charlotte Hornets Toronto Raptors,-0.0
+Charlotte Hornets Utah Jazz,-0.0
+Charlotte Hornets Washington Wizards,0.0
+Charlotte Hornets SEASON_2015-16,0.17524894066650626
+Charlotte Hornets SEASON_2016-17,-0.0
+Charlotte Hornets SEASON_2017-18,-0.04853839028379446
+Charlotte Hornets SEASON_2018-19,0.344145171133764
+Charlotte Hornets SEASON_2019-20,0.0
+Charlotte Hornets SEASON_2020-21,0.0
+Charlotte Hornets SEASON_2021-22,-0.0
+Charlotte Hornets SEASON_2022-23,-0.0
+Chicago Bulls^2,-0.05976329837291005
+Chicago Bulls Cleveland Cavaliers,-0.0
+Chicago Bulls Dallas Mavericks,-0.0
+Chicago Bulls Denver Nuggets,0.0
+Chicago Bulls Detroit Pistons,0.0
+Chicago Bulls Golden State Warriors,0.0
+Chicago Bulls Houston Rockets,0.0
+Chicago Bulls Indiana Pacers,0.0
+Chicago Bulls LA Clippers,0.0
+Chicago Bulls Los Angeles Clippers,0.0
+Chicago Bulls Los Angeles Lakers,0.0
+Chicago Bulls Memphis Grizzlies,0.0
+Chicago Bulls Miami Heat,-0.0
+Chicago Bulls Milwaukee Bucks,0.0
+Chicago Bulls Minnesota Timberwolves,0.0
+Chicago Bulls New Orleans Pelicans,0.0
+Chicago Bulls New York Knicks,0.0
+Chicago Bulls Oklahoma City Thunder,-0.0
+Chicago Bulls Orlando Magic,0.0
+Chicago Bulls Philadelphia 76ers,0.0
+Chicago Bulls Phoenix Suns,0.0
+Chicago Bulls Portland Trail Blazers,0.0
+Chicago Bulls Sacramento Kings,0.0
+Chicago Bulls San Antonio Spurs,0.0
+Chicago Bulls Toronto Raptors,-0.0
+Chicago Bulls Utah Jazz,-0.0
+Chicago Bulls Washington Wizards,0.0
+Chicago Bulls SEASON_2015-16,-0.01778690425489706
+Chicago Bulls SEASON_2016-17,0.0
+Chicago Bulls SEASON_2017-18,-0.0
+Chicago Bulls SEASON_2018-19,-0.28417339720204315
+Chicago Bulls SEASON_2019-20,0.0
+Chicago Bulls SEASON_2020-21,0.0
+Chicago Bulls SEASON_2021-22,0.19718348946395547
+Chicago Bulls SEASON_2022-23,-0.07206122579935131
+Cleveland Cavaliers^2,0.22030536278998786
+Cleveland Cavaliers Dallas Mavericks,-0.0
+Cleveland Cavaliers Denver Nuggets,-0.0
+Cleveland Cavaliers Detroit Pistons,-0.0
+Cleveland Cavaliers Golden State Warriors,-0.0
+Cleveland Cavaliers Houston Rockets,-0.0
+Cleveland Cavaliers Indiana Pacers,-0.0
+Cleveland Cavaliers LA Clippers,-0.0
+Cleveland Cavaliers Los Angeles Clippers,-0.0
+Cleveland Cavaliers Los Angeles Lakers,-0.0
+Cleveland Cavaliers Memphis Grizzlies,-0.0
+Cleveland Cavaliers Miami Heat,-0.0
+Cleveland Cavaliers Milwaukee Bucks,-0.0
+Cleveland Cavaliers Minnesota Timberwolves,-0.0
+Cleveland Cavaliers New Orleans Pelicans,-0.0
+Cleveland Cavaliers New York Knicks,-0.0
+Cleveland Cavaliers Oklahoma City Thunder,-0.0
+Cleveland Cavaliers Orlando Magic,-0.0
+Cleveland Cavaliers Philadelphia 76ers,-0.0
+Cleveland Cavaliers Phoenix Suns,-0.0
+Cleveland Cavaliers Portland Trail Blazers,-0.0
+Cleveland Cavaliers Sacramento Kings,-0.0
+Cleveland Cavaliers San Antonio Spurs,-0.0
+Cleveland Cavaliers Toronto Raptors,-0.0
+Cleveland Cavaliers Utah Jazz,-0.0
+Cleveland Cavaliers Washington Wizards,-0.0
+Cleveland Cavaliers SEASON_2015-16,0.2783000223710335
+Cleveland Cavaliers SEASON_2016-17,-0.03858559611108059
+Cleveland Cavaliers SEASON_2017-18,-0.0
+Cleveland Cavaliers SEASON_2018-19,-0.315586126710827
+Cleveland Cavaliers SEASON_2019-20,-0.0
+Cleveland Cavaliers SEASON_2020-21,-0.023110056329415596
+Cleveland Cavaliers SEASON_2021-22,-0.0
+Cleveland Cavaliers SEASON_2022-23,0.03269521643543785
+Dallas Mavericks^2,0.11877094276067299
+Dallas Mavericks Denver Nuggets,-0.0
+Dallas Mavericks Detroit Pistons,-0.0
+Dallas Mavericks Golden State Warriors,-0.0
+Dallas Mavericks Houston Rockets,-0.0
+Dallas Mavericks Indiana Pacers,-0.0
+Dallas Mavericks LA Clippers,-0.0
+Dallas Mavericks Los Angeles Clippers,-0.0
+Dallas Mavericks Los Angeles Lakers,-0.0
+Dallas Mavericks Memphis Grizzlies,-0.0
+Dallas Mavericks Miami Heat,-0.0
+Dallas Mavericks Milwaukee Bucks,-0.0
+Dallas Mavericks Minnesota Timberwolves,-0.0
+Dallas Mavericks New Orleans Pelicans,0.0
+Dallas Mavericks New York Knicks,-0.0
+Dallas Mavericks Oklahoma City Thunder,-0.0
+Dallas Mavericks Orlando Magic,0.0
+Dallas Mavericks Philadelphia 76ers,-0.0
+Dallas Mavericks Phoenix Suns,-0.0
+Dallas Mavericks Portland Trail Blazers,-0.0
+Dallas Mavericks Sacramento Kings,0.0
+Dallas Mavericks San Antonio Spurs,-0.0
+Dallas Mavericks Toronto Raptors,-0.0
+Dallas Mavericks Utah Jazz,-0.0
+Dallas Mavericks Washington Wizards,0.0
+Dallas Mavericks SEASON_2015-16,-0.0
+Dallas Mavericks SEASON_2016-17,0.0
+Dallas Mavericks SEASON_2017-18,-0.5060904477624141
+Dallas Mavericks SEASON_2018-19,-0.0
+Dallas Mavericks SEASON_2019-20,-0.0
+Dallas Mavericks SEASON_2020-21,0.16802168242386714
+Dallas Mavericks SEASON_2021-22,0.6820486556188498
+Dallas Mavericks SEASON_2022-23,-0.0
+Denver Nuggets^2,0.05847991556232532
+Denver Nuggets Detroit Pistons,-0.0
+Denver Nuggets Golden State Warriors,-0.0
+Denver Nuggets Houston Rockets,-0.0
+Denver Nuggets Indiana Pacers,-0.0
+Denver Nuggets LA Clippers,-0.0
+Denver Nuggets Los Angeles Clippers,-0.0
+Denver Nuggets Los Angeles Lakers,0.0
+Denver Nuggets Memphis Grizzlies,-0.0
+Denver Nuggets Miami Heat,-0.0
+Denver Nuggets Milwaukee Bucks,-0.0
+Denver Nuggets Minnesota Timberwolves,0.0
+Denver Nuggets New Orleans Pelicans,0.0
+Denver Nuggets New York Knicks,-0.0
+Denver Nuggets Oklahoma City Thunder,-0.0
+Denver Nuggets Orlando Magic,0.0
+Denver Nuggets Philadelphia 76ers,-0.0
+Denver Nuggets Phoenix Suns,-0.0
+Denver Nuggets Portland Trail Blazers,-0.0
+Denver Nuggets Sacramento Kings,0.0
+Denver Nuggets San Antonio Spurs,0.0
+Denver Nuggets Toronto Raptors,-0.0
+Denver Nuggets Utah Jazz,-0.0
+Denver Nuggets Washington Wizards,0.0
+Denver Nuggets SEASON_2015-16,-0.0
+Denver Nuggets SEASON_2016-17,-0.15574886196537643
+Denver Nuggets SEASON_2017-18,0.0
+Denver Nuggets SEASON_2018-19,0.45370379580828896
+Denver Nuggets SEASON_2019-20,0.0
+Denver Nuggets SEASON_2020-21,-0.0
+Denver Nuggets SEASON_2021-22,0.0
+Denver Nuggets SEASON_2022-23,-0.0
+Detroit Pistons^2,-0.026018599516744817
+Detroit Pistons Golden State Warriors,0.0
+Detroit Pistons Houston Rockets,0.0
+Detroit Pistons Indiana Pacers,0.0
+Detroit Pistons LA Clippers,0.0
+Detroit Pistons Los Angeles Clippers,0.0
+Detroit Pistons Los Angeles Lakers,0.0
+Detroit Pistons Memphis Grizzlies,0.0
+Detroit Pistons Miami Heat,-0.0
+Detroit Pistons Milwaukee Bucks,0.0
+Detroit Pistons Minnesota Timberwolves,0.0
+Detroit Pistons New Orleans Pelicans,0.0
+Detroit Pistons New York Knicks,0.0
+Detroit Pistons Oklahoma City Thunder,-0.0
+Detroit Pistons Orlando Magic,0.0
+Detroit Pistons Philadelphia 76ers,-0.0
+Detroit Pistons Phoenix Suns,0.0
+Detroit Pistons Portland Trail Blazers,-0.0
+Detroit Pistons Sacramento Kings,0.0
+Detroit Pistons San Antonio Spurs,0.0
+Detroit Pistons Toronto Raptors,-0.0
+Detroit Pistons Utah Jazz,-0.0
+Detroit Pistons Washington Wizards,0.0
+Detroit Pistons SEASON_2015-16,0.2965047747664488
+Detroit Pistons SEASON_2016-17,-0.0
+Detroit Pistons SEASON_2017-18,0.0
+Detroit Pistons SEASON_2018-19,0.610525497462394
+Detroit Pistons SEASON_2019-20,0.0
+Detroit Pistons SEASON_2020-21,-0.0381630349963587
+Detroit Pistons SEASON_2021-22,0.03151066144860453
+Detroit Pistons SEASON_2022-23,-0.4165051205782914
+Golden State Warriors^2,-0.0
+Golden State Warriors Houston Rockets,0.0
+Golden State Warriors Indiana Pacers,0.0
+Golden State Warriors LA Clippers,-0.0
+Golden State Warriors Los Angeles Clippers,-0.0
+Golden State Warriors Los Angeles Lakers,0.0
+Golden State Warriors Memphis Grizzlies,-0.0
+Golden State Warriors Miami Heat,-0.0
+Golden State Warriors Milwaukee Bucks,0.0
+Golden State Warriors Minnesota Timberwolves,0.0
+Golden State Warriors New Orleans Pelicans,0.0
+Golden State Warriors New York Knicks,0.0
+Golden State Warriors Oklahoma City Thunder,-0.0
+Golden State Warriors Orlando Magic,0.0
+Golden State Warriors Philadelphia 76ers,-0.0
+Golden State Warriors Phoenix Suns,0.0
+Golden State Warriors Portland Trail Blazers,-0.0
+Golden State Warriors Sacramento Kings,0.0
+Golden State Warriors San Antonio Spurs,0.0
+Golden State Warriors Toronto Raptors,-0.0
+Golden State Warriors Utah Jazz,-0.0
+Golden State Warriors Washington Wizards,0.0
+Golden State Warriors SEASON_2015-16,0.01730682729930554
+Golden State Warriors SEASON_2016-17,-0.0
+Golden State Warriors SEASON_2017-18,-0.0244245636592785
+Golden State Warriors SEASON_2018-19,0.0
+Golden State Warriors SEASON_2019-20,-0.035997206706451915
+Golden State Warriors SEASON_2020-21,0.021613734601644716
+Golden State Warriors SEASON_2021-22,0.06904082800825635
+Golden State Warriors SEASON_2022-23,-0.0
+Houston Rockets^2,-0.0
+Houston Rockets Indiana Pacers,0.0
+Houston Rockets LA Clippers,-0.0
+Houston Rockets Los Angeles Clippers,-0.0
+Houston Rockets Los Angeles Lakers,0.0
+Houston Rockets Memphis Grizzlies,-0.0
+Houston Rockets Miami Heat,-0.0
+Houston Rockets Milwaukee Bucks,0.0
+Houston Rockets Minnesota Timberwolves,0.0
+Houston Rockets New Orleans Pelicans,0.0
+Houston Rockets New York Knicks,0.0
+Houston Rockets Oklahoma City Thunder,-0.0
+Houston Rockets Orlando Magic,0.0
+Houston Rockets Philadelphia 76ers,-0.0
+Houston Rockets Phoenix Suns,0.0
+Houston Rockets Portland Trail Blazers,-0.0
+Houston Rockets Sacramento Kings,0.0
+Houston Rockets San Antonio Spurs,0.0
+Houston Rockets Toronto Raptors,-0.0
+Houston Rockets Utah Jazz,-0.0
+Houston Rockets Washington Wizards,0.0
+Houston Rockets SEASON_2015-16,-1.2314200421859522
+Houston Rockets SEASON_2016-17,0.0
+Houston Rockets SEASON_2017-18,0.14774840916279655
+Houston Rockets SEASON_2018-19,0.0
+Houston Rockets SEASON_2019-20,0.0
+Houston Rockets SEASON_2020-21,-0.23178689905033767
+Houston Rockets SEASON_2021-22,-0.5291360615819497
+Houston Rockets SEASON_2022-23,-0.28560873203526804
+Indiana Pacers^2,-0.05763880538827857
+Indiana Pacers LA Clippers,0.0
+Indiana Pacers Los Angeles Clippers,0.0
+Indiana Pacers Los Angeles Lakers,0.0
+Indiana Pacers Memphis Grizzlies,0.0
+Indiana Pacers Miami Heat,-0.0
+Indiana Pacers Milwaukee Bucks,0.0
+Indiana Pacers Minnesota Timberwolves,0.0
+Indiana Pacers New Orleans Pelicans,0.0
+Indiana Pacers New York Knicks,0.0
+Indiana Pacers Oklahoma City Thunder,-0.0
+Indiana Pacers Orlando Magic,0.0
+Indiana Pacers Philadelphia 76ers,0.0
+Indiana Pacers Phoenix Suns,0.0
+Indiana Pacers Portland Trail Blazers,0.0
+Indiana Pacers Sacramento Kings,0.0
+Indiana Pacers San Antonio Spurs,0.0
+Indiana Pacers Toronto Raptors,-0.0
+Indiana Pacers Utah Jazz,-0.0
+Indiana Pacers Washington Wizards,0.0
+Indiana Pacers SEASON_2015-16,0.0
+Indiana Pacers SEASON_2016-17,-0.10775982233154581
+Indiana Pacers SEASON_2017-18,0.0
+Indiana Pacers SEASON_2018-19,0.0
+Indiana Pacers SEASON_2019-20,0.30670603059183577
+Indiana Pacers SEASON_2020-21,-0.0
+Indiana Pacers SEASON_2021-22,-0.2985582951733412
+Indiana Pacers SEASON_2022-23,0.0
+LA Clippers^2,0.010377689229918668
+LA Clippers Los Angeles Clippers,-0.0
+LA Clippers Los Angeles Lakers,0.0
+LA Clippers Memphis Grizzlies,-0.0
+LA Clippers Miami Heat,-0.0
+LA Clippers Milwaukee Bucks,0.0
+LA Clippers Minnesota Timberwolves,0.0
+LA Clippers New Orleans Pelicans,0.0
+LA Clippers New York Knicks,0.0
+LA Clippers Oklahoma City Thunder,-0.0
+LA Clippers Orlando Magic,0.0
+LA Clippers Philadelphia 76ers,-0.0
+LA Clippers Phoenix Suns,-0.0
+LA Clippers Portland Trail Blazers,-0.0
+LA Clippers Sacramento Kings,0.0
+LA Clippers San Antonio Spurs,0.0
+LA Clippers Toronto Raptors,-0.0
+LA Clippers Utah Jazz,-0.0
+LA Clippers Washington Wizards,0.0
+LA Clippers SEASON_2015-16,0.0
+LA Clippers SEASON_2016-17,0.0
+LA Clippers SEASON_2017-18,-0.0
+LA Clippers SEASON_2018-19,-0.0
+LA Clippers SEASON_2019-20,0.2048361741511388
+LA Clippers SEASON_2020-21,-0.0
+LA Clippers SEASON_2021-22,-0.0
+LA Clippers SEASON_2022-23,-0.0
+Los Angeles Clippers^2,0.01163350531609861
+Los Angeles Clippers Los Angeles Lakers,0.0
+Los Angeles Clippers Memphis Grizzlies,-0.0
+Los Angeles Clippers Miami Heat,-0.0
+Los Angeles Clippers Milwaukee Bucks,0.0
+Los Angeles Clippers Minnesota Timberwolves,0.0
+Los Angeles Clippers New Orleans Pelicans,0.0
+Los Angeles Clippers New York Knicks,0.0
+Los Angeles Clippers Oklahoma City Thunder,-0.0
+Los Angeles Clippers Orlando Magic,0.0
+Los Angeles Clippers Philadelphia 76ers,-0.0
+Los Angeles Clippers Phoenix Suns,-0.0
+Los Angeles Clippers Portland Trail Blazers,-0.0
+Los Angeles Clippers Sacramento Kings,0.0
+Los Angeles Clippers San Antonio Spurs,0.0
+Los Angeles Clippers Toronto Raptors,-0.0
+Los Angeles Clippers Utah Jazz,-0.0
+Los Angeles Clippers Washington Wizards,0.0
+Los Angeles Clippers SEASON_2015-16,-0.0
+Los Angeles Clippers SEASON_2016-17,0.0
+Los Angeles Clippers SEASON_2017-18,0.0
+Los Angeles Clippers SEASON_2018-19,0.0
+Los Angeles Clippers SEASON_2019-20,0.0
+Los Angeles Clippers SEASON_2020-21,0.0
+Los Angeles Clippers SEASON_2021-22,0.0
+Los Angeles Clippers SEASON_2022-23,0.0
+Los Angeles Lakers^2,-0.0771815828463837
+Los Angeles Lakers Memphis Grizzlies,0.0
+Los Angeles Lakers Miami Heat,-0.0
+Los Angeles Lakers Milwaukee Bucks,0.0
+Los Angeles Lakers Minnesota Timberwolves,0.0
+Los Angeles Lakers New Orleans Pelicans,0.0
+Los Angeles Lakers New York Knicks,0.0
+Los Angeles Lakers Oklahoma City Thunder,-0.0
+Los Angeles Lakers Orlando Magic,0.0
+Los Angeles Lakers Philadelphia 76ers,0.0
+Los Angeles Lakers Phoenix Suns,0.0
+Los Angeles Lakers Portland Trail Blazers,0.0
+Los Angeles Lakers Sacramento Kings,0.0
+Los Angeles Lakers San Antonio Spurs,0.0
+Los Angeles Lakers Toronto Raptors,-0.0
+Los Angeles Lakers Utah Jazz,-0.0
+Los Angeles Lakers Washington Wizards,0.0
+Los Angeles Lakers SEASON_2015-16,0.28340519338485604
+Los Angeles Lakers SEASON_2016-17,-0.0
+Los Angeles Lakers SEASON_2017-18,0.0
+Los Angeles Lakers SEASON_2018-19,0.040660996382071636
+Los Angeles Lakers SEASON_2019-20,0.103957089678624
+Los Angeles Lakers SEASON_2020-21,0.08153761789201937
+Los Angeles Lakers SEASON_2021-22,-0.23330056654398515
+Los Angeles Lakers SEASON_2022-23,-0.0
+Memphis Grizzlies^2,0.008904675072337087
+Memphis Grizzlies Miami Heat,-0.0
+Memphis Grizzlies Milwaukee Bucks,-0.0
+Memphis Grizzlies Minnesota Timberwolves,0.0
+Memphis Grizzlies New Orleans Pelicans,0.0
+Memphis Grizzlies New York Knicks,0.0
+Memphis Grizzlies Oklahoma City Thunder,-0.0
+Memphis Grizzlies Orlando Magic,0.0
+Memphis Grizzlies Philadelphia 76ers,-0.0
+Memphis Grizzlies Phoenix Suns,-0.0
+Memphis Grizzlies Portland Trail Blazers,-0.0
+Memphis Grizzlies Sacramento Kings,0.0
+Memphis Grizzlies San Antonio Spurs,0.0
+Memphis Grizzlies Toronto Raptors,-0.0
+Memphis Grizzlies Utah Jazz,-0.0
+Memphis Grizzlies Washington Wizards,0.0
+Memphis Grizzlies SEASON_2015-16,0.0
+Memphis Grizzlies SEASON_2016-17,0.21889122088830015
+Memphis Grizzlies SEASON_2017-18,-0.23662637910481263
+Memphis Grizzlies SEASON_2018-19,-0.0
+Memphis Grizzlies SEASON_2019-20,-0.2986384030814614
+Memphis Grizzlies SEASON_2020-21,-0.0
+Memphis Grizzlies SEASON_2021-22,-0.0
+Memphis Grizzlies SEASON_2022-23,0.21571276155690935
+Miami Heat^2,0.1801895690029996
+Miami Heat Milwaukee Bucks,-0.0
+Miami Heat Minnesota Timberwolves,-0.0
+Miami Heat New Orleans Pelicans,0.0
+Miami Heat New York Knicks,-0.0
+Miami Heat Oklahoma City Thunder,-0.0
+Miami Heat Orlando Magic,-0.0
+Miami Heat Philadelphia 76ers,-0.0
+Miami Heat Phoenix Suns,-0.0
+Miami Heat Portland Trail Blazers,-0.0
+Miami Heat Sacramento Kings,0.0
+Miami Heat San Antonio Spurs,-0.0
+Miami Heat Toronto Raptors,-0.0
+Miami Heat Utah Jazz,-0.0
+Miami Heat Washington Wizards,-0.0
+Miami Heat SEASON_2015-16,0.0
+Miami Heat SEASON_2016-17,-0.10193898079047575
+Miami Heat SEASON_2017-18,0.0
+Miami Heat SEASON_2018-19,-0.0
+Miami Heat SEASON_2019-20,-0.24961068552090612
+Miami Heat SEASON_2020-21,0.0
+Miami Heat SEASON_2021-22,0.0
+Miami Heat SEASON_2022-23,0.09653857528975604
+Milwaukee Bucks^2,-0.03282902644183148
+Milwaukee Bucks Minnesota Timberwolves,0.0
+Milwaukee Bucks New Orleans Pelicans,0.0
+Milwaukee Bucks New York Knicks,0.0
+Milwaukee Bucks Oklahoma City Thunder,-0.0
+Milwaukee Bucks Orlando Magic,0.0
+Milwaukee Bucks Philadelphia 76ers,-0.0
+Milwaukee Bucks Phoenix Suns,0.0
+Milwaukee Bucks Portland Trail Blazers,-0.0
+Milwaukee Bucks Sacramento Kings,0.0
+Milwaukee Bucks San Antonio Spurs,0.0
+Milwaukee Bucks Toronto Raptors,-0.0
+Milwaukee Bucks Utah Jazz,-0.0
+Milwaukee Bucks Washington Wizards,0.0
+Milwaukee Bucks SEASON_2015-16,-0.0
+Milwaukee Bucks SEASON_2016-17,-0.0
+Milwaukee Bucks SEASON_2017-18,0.0
+Milwaukee Bucks SEASON_2018-19,0.0
+Milwaukee Bucks SEASON_2019-20,0.0
+Milwaukee Bucks SEASON_2020-21,-0.24590372977080371
+Milwaukee Bucks SEASON_2021-22,-0.0
+Milwaukee Bucks SEASON_2022-23,0.2291173549972424
+Minnesota Timberwolves^2,-0.10808554105377252
+Minnesota Timberwolves New Orleans Pelicans,0.0
+Minnesota Timberwolves New York Knicks,0.0
+Minnesota Timberwolves Oklahoma City Thunder,0.0
+Minnesota Timberwolves Orlando Magic,0.0
+Minnesota Timberwolves Philadelphia 76ers,0.0
+Minnesota Timberwolves Phoenix Suns,0.0
+Minnesota Timberwolves Portland Trail Blazers,0.0
+Minnesota Timberwolves Sacramento Kings,0.0
+Minnesota Timberwolves San Antonio Spurs,0.0
+Minnesota Timberwolves Toronto Raptors,-0.0
+Minnesota Timberwolves Utah Jazz,-0.0
+Minnesota Timberwolves Washington Wizards,0.0
+Minnesota Timberwolves SEASON_2015-16,0.0
+Minnesota Timberwolves SEASON_2016-17,-0.050302126489869814
+Minnesota Timberwolves SEASON_2017-18,0.34898972142032625
+Minnesota Timberwolves SEASON_2018-19,0.0
+Minnesota Timberwolves SEASON_2019-20,0.0
+Minnesota Timberwolves SEASON_2020-21,-0.029919618372620062
+Minnesota Timberwolves SEASON_2021-22,0.0
+Minnesota Timberwolves SEASON_2022-23,0.0
+New Orleans Pelicans^2,-0.20677271072030812
+New Orleans Pelicans New York Knicks,0.0
+New Orleans Pelicans Oklahoma City Thunder,0.0
+New Orleans Pelicans Orlando Magic,0.0
+New Orleans Pelicans Philadelphia 76ers,0.0
+New Orleans Pelicans Phoenix Suns,0.0
+New Orleans Pelicans Portland Trail Blazers,0.0
+New Orleans Pelicans Sacramento Kings,0.0
+New Orleans Pelicans San Antonio Spurs,0.0
+New Orleans Pelicans Toronto Raptors,-0.0
+New Orleans Pelicans Utah Jazz,0.0
+New Orleans Pelicans Washington Wizards,0.0
+New Orleans Pelicans SEASON_2015-16,-0.19521861116321668
+New Orleans Pelicans SEASON_2016-17,-0.16341114849633528
+New Orleans Pelicans SEASON_2017-18,0.010166140153210901
+New Orleans Pelicans SEASON_2018-19,-0.16383404547359579
+New Orleans Pelicans SEASON_2019-20,-0.00691180423675737
+New Orleans Pelicans SEASON_2020-21,-0.0
+New Orleans Pelicans SEASON_2021-22,0.2968052545657632
+New Orleans Pelicans SEASON_2022-23,0.07588828141818793
+New York Knicks^2,-0.08921566065121506
+New York Knicks Oklahoma City Thunder,-0.0
+New York Knicks Orlando Magic,0.0
+New York Knicks Philadelphia 76ers,0.0
+New York Knicks Phoenix Suns,0.0
+New York Knicks Portland Trail Blazers,0.0
+New York Knicks Sacramento Kings,0.0
+New York Knicks San Antonio Spurs,0.0
+New York Knicks Toronto Raptors,-0.0
+New York Knicks Utah Jazz,-0.0
+New York Knicks Washington Wizards,0.0
+New York Knicks SEASON_2015-16,-0.0
+New York Knicks SEASON_2016-17,0.0
+New York Knicks SEASON_2017-18,-0.011386831543221346
+New York Knicks SEASON_2018-19,-0.25749861270234975
+New York Knicks SEASON_2019-20,0.0
+New York Knicks SEASON_2020-21,0.13466629620167564
+New York Knicks SEASON_2021-22,0.0
+New York Knicks SEASON_2022-23,0.13543860503459867
+Oklahoma City Thunder^2,0.07802019031973648
+Oklahoma City Thunder Orlando Magic,0.0
+Oklahoma City Thunder Philadelphia 76ers,-0.0
+Oklahoma City Thunder Phoenix Suns,-0.0
+Oklahoma City Thunder Portland Trail Blazers,-0.0
+Oklahoma City Thunder Sacramento Kings,0.0
+Oklahoma City Thunder San Antonio Spurs,-0.0
+Oklahoma City Thunder Toronto Raptors,-0.0
+Oklahoma City Thunder Utah Jazz,-0.0
+Oklahoma City Thunder Washington Wizards,0.0
+Oklahoma City Thunder SEASON_2015-16,0.0
+Oklahoma City Thunder SEASON_2016-17,0.15309916972840582
+Oklahoma City Thunder SEASON_2017-18,0.046541623160075464
+Oklahoma City Thunder SEASON_2018-19,-0.0
+Oklahoma City Thunder SEASON_2019-20,0.10915106566729964
+Oklahoma City Thunder SEASON_2020-21,-0.0
+Oklahoma City Thunder SEASON_2021-22,-0.0
+Oklahoma City Thunder SEASON_2022-23,-0.0
+Orlando Magic^2,-0.09787907981318142
+Orlando Magic Philadelphia 76ers,0.0
+Orlando Magic Phoenix Suns,0.0
+Orlando Magic Portland Trail Blazers,0.0
+Orlando Magic Sacramento Kings,0.0
+Orlando Magic San Antonio Spurs,0.0
+Orlando Magic Toronto Raptors,-0.0
+Orlando Magic Utah Jazz,-0.0
+Orlando Magic Washington Wizards,0.0
+Orlando Magic SEASON_2015-16,-0.0
+Orlando Magic SEASON_2016-17,0.0
+Orlando Magic SEASON_2017-18,-0.036017380064025356
+Orlando Magic SEASON_2018-19,0.3403404975376536
+Orlando Magic SEASON_2019-20,0.06635701229116168
+Orlando Magic SEASON_2020-21,0.0
+Orlando Magic SEASON_2021-22,-0.0
+Orlando Magic SEASON_2022-23,0.08199756995199711
+Philadelphia 76ers^2,0.02088553954260134
+Philadelphia 76ers Phoenix Suns,-0.0
+Philadelphia 76ers Portland Trail Blazers,-0.0
+Philadelphia 76ers Sacramento Kings,0.0
+Philadelphia 76ers San Antonio Spurs,0.0
+Philadelphia 76ers Toronto Raptors,-0.0
+Philadelphia 76ers Utah Jazz,-0.0
+Philadelphia 76ers Washington Wizards,0.0
+Philadelphia 76ers SEASON_2015-16,-0.8260634632203551
+Philadelphia 76ers SEASON_2016-17,-0.0749623657708532
+Philadelphia 76ers SEASON_2017-18,0.0
+Philadelphia 76ers SEASON_2018-19,-0.0
+Philadelphia 76ers SEASON_2019-20,-0.0
+Philadelphia 76ers SEASON_2020-21,0.03314501830357177
+Philadelphia 76ers SEASON_2021-22,0.13337600108270278
+Philadelphia 76ers SEASON_2022-23,0.0
+Phoenix Suns^2,0.0
+Phoenix Suns Portland Trail Blazers,-0.0
+Phoenix Suns Sacramento Kings,0.0
+Phoenix Suns San Antonio Spurs,0.0
+Phoenix Suns Toronto Raptors,-0.0
+Phoenix Suns Utah Jazz,-0.0
+Phoenix Suns Washington Wizards,0.0
+Phoenix Suns SEASON_2015-16,0.0
+Phoenix Suns SEASON_2016-17,-0.0
+Phoenix Suns SEASON_2017-18,-0.0
+Phoenix Suns SEASON_2018-19,-0.21338733751800817
+Phoenix Suns SEASON_2019-20,-0.0
+Phoenix Suns SEASON_2020-21,0.0
+Phoenix Suns SEASON_2021-22,0.2912368560486405
+Phoenix Suns SEASON_2022-23,0.17669851150757943
+Portland Trail Blazers^2,0.03643195092814872
+Portland Trail Blazers Sacramento Kings,0.0
+Portland Trail Blazers San Antonio Spurs,0.0
+Portland Trail Blazers Toronto Raptors,-0.0
+Portland Trail Blazers Utah Jazz,-0.0
+Portland Trail Blazers Washington Wizards,0.0
+Portland Trail Blazers SEASON_2015-16,-0.0
+Portland Trail Blazers SEASON_2016-17,-0.009381636422226686
+Portland Trail Blazers SEASON_2017-18,0.14421662083186634
+Portland Trail Blazers SEASON_2018-19,0.3929542913496396
+Portland Trail Blazers SEASON_2019-20,-0.5522717258948365
+Portland Trail Blazers SEASON_2020-21,0.05507225072699322
+Portland Trail Blazers SEASON_2021-22,-0.1673448618851215
+Portland Trail Blazers SEASON_2022-23,-0.0
+Sacramento Kings^2,-0.18027598975240663
+Sacramento Kings San Antonio Spurs,0.0
+Sacramento Kings Toronto Raptors,-0.0
+Sacramento Kings Utah Jazz,0.0
+Sacramento Kings Washington Wizards,0.0
+Sacramento Kings SEASON_2015-16,-0.0
+Sacramento Kings SEASON_2016-17,-0.0
+Sacramento Kings SEASON_2017-18,0.0
+Sacramento Kings SEASON_2018-19,0.0
+Sacramento Kings SEASON_2019-20,0.0
+Sacramento Kings SEASON_2020-21,0.0
+Sacramento Kings SEASON_2021-22,-0.0
+Sacramento Kings SEASON_2022-23,0.0925466218122473
+San Antonio Spurs^2,-0.05126964792195132
+San Antonio Spurs Toronto Raptors,-0.0
+San Antonio Spurs Utah Jazz,-0.0
+San Antonio Spurs Washington Wizards,0.0
+San Antonio Spurs SEASON_2015-16,0.0
+San Antonio Spurs SEASON_2016-17,0.11874620143200532
+San Antonio Spurs SEASON_2017-18,0.0
+San Antonio Spurs SEASON_2018-19,-0.0
+San Antonio Spurs SEASON_2019-20,-0.5673284142224179
+San Antonio Spurs SEASON_2020-21,0.0
+San Antonio Spurs SEASON_2021-22,-0.1782793913627209
+San Antonio Spurs SEASON_2022-23,-0.0
+Toronto Raptors^2,0.23278991435046129
+Toronto Raptors Utah Jazz,-0.0
+Toronto Raptors Washington Wizards,-0.0
+Toronto Raptors SEASON_2015-16,-0.0
+Toronto Raptors SEASON_2016-17,-0.21141132530149717
+Toronto Raptors SEASON_2017-18,0.19988411288917068
+Toronto Raptors SEASON_2018-19,0.0
+Toronto Raptors SEASON_2019-20,0.0177751571076681
+Toronto Raptors SEASON_2020-21,-0.4424297842209466
+Toronto Raptors SEASON_2021-22,0.0
+Toronto Raptors SEASON_2022-23,-0.23965866068420075
+Utah Jazz^2,0.09949310536122492
+Utah Jazz Washington Wizards,0.0
+Utah Jazz SEASON_2015-16,-0.0
+Utah Jazz SEASON_2016-17,0.10202060068706029
+Utah Jazz SEASON_2017-18,-0.0
+Utah Jazz SEASON_2018-19,0.012894315649385013
+Utah Jazz SEASON_2019-20,-0.0
+Utah Jazz SEASON_2020-21,0.02474474290915157
+Utah Jazz SEASON_2021-22,-0.0
+Utah Jazz SEASON_2022-23,-0.1461337012626997
+Washington Wizards^2,-0.12796192413824264
+Washington Wizards SEASON_2015-16,-0.0
+Washington Wizards SEASON_2016-17,0.09484539622695388
+Washington Wizards SEASON_2017-18,0.04544402371320593
+Washington Wizards SEASON_2018-19,-0.0
+Washington Wizards SEASON_2019-20,-0.15345684248709113
+Washington Wizards SEASON_2020-21,-0.0
+Washington Wizards SEASON_2021-22,0.0
+Washington Wizards SEASON_2022-23,-0.12181916543695842
+SEASON_2015-16^2,-0.0
+SEASON_2015-16 SEASON_2016-17,0.0
+SEASON_2015-16 SEASON_2017-18,0.0
+SEASON_2015-16 SEASON_2018-19,0.0
+SEASON_2015-16 SEASON_2019-20,0.0
+SEASON_2015-16 SEASON_2020-21,0.0
+SEASON_2015-16 SEASON_2021-22,0.0
+SEASON_2015-16 SEASON_2022-23,0.0
+SEASON_2016-17^2,-0.33090226273234163
+SEASON_2016-17 SEASON_2017-18,0.0
+SEASON_2016-17 SEASON_2018-19,0.0
+SEASON_2016-17 SEASON_2019-20,0.0
+SEASON_2016-17 SEASON_2020-21,0.0
+SEASON_2016-17 SEASON_2021-22,0.0
+SEASON_2016-17 SEASON_2022-23,0.0
+SEASON_2017-18^2,-0.5299780878738484
+SEASON_2017-18 SEASON_2018-19,0.0
+SEASON_2017-18 SEASON_2019-20,0.0
+SEASON_2017-18 SEASON_2020-21,0.0
+SEASON_2017-18 SEASON_2021-22,0.0
+SEASON_2017-18 SEASON_2022-23,0.0
+SEASON_2018-19^2,-0.8107128498373992
+SEASON_2018-19 SEASON_2019-20,0.0
+SEASON_2018-19 SEASON_2020-21,0.0
+SEASON_2018-19 SEASON_2021-22,0.0
+SEASON_2018-19 SEASON_2022-23,0.0
+SEASON_2019-20^2,-0.03166640408364038
+SEASON_2019-20 SEASON_2020-21,0.0
+SEASON_2019-20 SEASON_2021-22,0.0
+SEASON_2019-20 SEASON_2022-23,0.0
+SEASON_2020-21^2,-0.586997488861301
+SEASON_2020-21 SEASON_2021-22,0.0
+SEASON_2020-21 SEASON_2022-23,0.0
+SEASON_2021-22^2,-0.6633662653042982
+SEASON_2021-22 SEASON_2022-23,0.0
+SEASON_2022-23^2,-0.8251106198080356
